@@ -1,4 +1,4 @@
-# Proyecto PHP: Sistema de Gestión de Paquetes "RapiePress"
+# Proyecto PHP: Sistema de Gestión de Paquetes "RapiExpress"
 
 ## Descripción General
 Este proyecto es un sistema de gestión de paquetes desarrollado en PHP utilizando Programación Orientada a Objetos (POO), PDO para la conexión a bases de datos y arquitectura MVC (Modelo-Vista-Controlador). El sistema está diseñado para gestionar todo el ciclo de vida de los paquetes, desde su recepción hasta su entrega final.
